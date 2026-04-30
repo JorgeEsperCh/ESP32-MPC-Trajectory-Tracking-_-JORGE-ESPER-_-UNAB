@@ -29,7 +29,7 @@ Para la ejecución en el ESP32, se utilizó la discretización por el **Método 
 ![Resultados MPC](RESULTADOS%20MPC%20final.png)
 
 ### C. Señal de Control vs Potencia PWM
-![Control vs PWM](SEÑAL%20DE%20CONTROL%20VS%20SEÑAL%20DE%20POTENCIA%20PWM.png)
+![Control vs PWM](SEÑAL%20DE%20CONTROL%20VS%20SEÑAL%20DE%20POTENCIA%20PWM%20.png)
 
 ### D. Comportamiento de Motores y Hardware
 ![Señal Motor](RESULTADOS%20SEÑAL%20MOTOR%20Y%20HARDWARE.png)

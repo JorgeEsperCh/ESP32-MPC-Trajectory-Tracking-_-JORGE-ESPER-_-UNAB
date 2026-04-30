@@ -1,0 +1,16 @@
+# Archivos de compilación del ESP32
+build/
+bin/
+obj/
+
+# Archivos de salida y binarios
+*.elf
+*.hex
+*.bin
+*.map
+
+# Configuraciones de IDE (VS Code / Arduino)
+.vscode/
+.settings/
+*.swp
+*~

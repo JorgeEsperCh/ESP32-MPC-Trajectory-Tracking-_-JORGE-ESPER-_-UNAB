@@ -23,16 +23,16 @@ Para la ejecución en el ESP32, se utilizó la discretización por el **Método 
 ## 3. Gráficos de Resultados y Telemetría
 
 ### A. Comparativa: Simulación vs Aplicación Real
-![Comparativa Final](RESULTADO%20COMPARACIÓN%20_%20SIMULACIÓN%20VS%20APLICACIÓN%20_%20CALIBRACIÓN%20FINAL.png)
+![Comparativa](RESULTADO%20COMPARACIÓN%20_%20SIMULACIÓN%20VS%20APLICACIÓN%20_%20CALIBRACIÓN%20FINAL.png)
 
-### B. Análisis de Trayectoria Maestra
+### B. Análisis de Trayectoria Maestra (Mariposa)
 ![Resultados MPC](RESULTADOS%20MPC%20final.png)
 
-### C. Señal de Control vs Potencia PWM
-![Control vs PWM](SEÑAL%20DE%20CONTROL%20VS%20SEÑAL%20DE%20POTENCIA%20PWM%20.png)
+### C. Seguimiento de Trayectoria Final (Intento 11)
+![Trayectoria Final](TRAYECTORIA%20FINAL%20_%20int%2011.png)
 
 ### D. Comportamiento de Motores y Hardware
 ![Señal Motor](RESULTADOS%20SEÑAL%20MOTOR%20Y%20HARDWARE.png)
 
-### E. Análisis de Error de Seguimiento (Intento 11)
+### E. Análisis de Error de Seguimiento (Precisión Milimétrica)
 ![Error Euclidiano](GRAFICO%20ERROR%20EUCLIDIANO%20FINAL%20_%20int%2011.png)
